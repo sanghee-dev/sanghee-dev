@@ -10,7 +10,7 @@ I am Sanghee Lee who is interested in Frontend development and machine learning 
 
 ### 🙆‍♀Languages
 
-![HTML&CSS](https://img.shields.io/badge/html%20&%20css-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-E34F26?style=flat&logo=html5&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/Javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=flat&logo=javascript&logoColor=white) ![REACT](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-3776AB?style=flat&logo=React&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-61DAFB?style=flat&logo=Python&logoColor=white)
+![HTML&CSS](https://img.shields.io/badge/html%20&%20css-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen?style=flat&logo=html5&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/Javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen?style=flat&logo=javascript&logoColor=white) ![REACT](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-brightgreen?style=flat&logo=React&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-brightgreen?style=flat&logo=Python&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

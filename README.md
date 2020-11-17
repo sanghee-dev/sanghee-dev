@@ -5,7 +5,7 @@
 I am Sanghee Lee who is interested in Frontend development and machine learning from South Korea.
 
 - I have been studying **computer science:computer:** since 2020.
-- I have project experience using html, css, **Javascript, React, Python**, ···.
+- I have project experience using **html, css, Javascript, React, Python**, ···.
 - I am very interested in **Frontend development**👩‍💻 and **machine learning**💡.
 
 ### 🙆‍♀Experience

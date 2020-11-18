@@ -10,7 +10,7 @@ I am Sanghee Lee who is interested in Frontend development and machine learning 
 
 ### 🙆‍♀Languages
 
-<img alt="html5" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> <img src="https://lh3.googleusercontent.com/proxy/P2CuevTF6oZ63G_KkslDQUdvC_IScmcssjVWCtg4sfrSsXwJX9fulQXkU9WwiQfIxdtkKptW2-ziYsVytm7qKXBatWqp-XwmRUMZqIrrdnMze5J3jj1x-iL51wUoT5fkYkd4LcRVhQ" alt="css" width="32" height="32"/> <img src="https://user-images.githubusercontent.com/13250888/53627368-a2059780-3c4b-11e9-95e3-9058d6a8afc7.png" alt="sass" width="32" height="32"/> <img alt="javascript" src="https://user-images.githubusercontent.com/13250888/53627364-a16d0100-3c4b-11e9-84e2-a8c2f7311695.png" width="32" height="32"/> <img alt="react" src="https://user-images.githubusercontent.com/13250888/62798586-90d58680-bb19-11e9-9a82-9762725abede.png" width="32" height="32"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="32" height="32"/>
+<img alt="html5" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> <img src="https://user-images.githubusercontent.com/61302874/99525171-cf284980-29dc-11eb-91ea-412ee2f0c910.png" width="32" height="32"/> <img src="https://user-images.githubusercontent.com/13250888/53627368-a2059780-3c4b-11e9-95e3-9058d6a8afc7.png" alt="sass" width="32" height="32"/> <img alt="javascript" src="https://user-images.githubusercontent.com/13250888/53627364-a16d0100-3c4b-11e9-84e2-a8c2f7311695.png" width="32" height="32"/> <img alt="react" src="https://user-images.githubusercontent.com/13250888/62798586-90d58680-bb19-11e9-9a82-9762725abede.png" width="32" height="32"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="32" height="32"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,3 +19,4 @@ I am Sanghee Lee who is interested in Frontend development and machine learning 
 ### 🙆‍♀Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeesangheee@gmail.com)](mailto:leeesangheee@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)](https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)
+

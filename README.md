@@ -14,7 +14,7 @@ I am Sanghee Lee who is interested in Frontend development from South Korea.
 
 🧡: <img alt="Html" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> <img alt="Css" src="https://user-images.githubusercontent.com/61302874/99525171-cf284980-29dc-11eb-91ea-412ee2f0c910.png" width="32" height="32"/> <img alt="Firebase" src="https://user-images.githubusercontent.com/61302874/103174001-ed1d7f80-48a1-11eb-922d-e33ae18dae9a.png" width="32" height="32"/> <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="32" height="32"/>
 
-💛:
+💛: <img alt="Redux" src="https://user-images.githubusercontent.com/61302874/105501958-38dc1100-5d08-11eb-9b80-21a9f30dea71.png" width="32" height="32"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

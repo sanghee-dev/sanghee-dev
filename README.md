@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am Sanghee Lee who is interested in Frontend development from South Korea.
+I am **Sanghee Lee** who is interested in **Frontend development** from South Korea.
 
 - I have been studying **computer science:computer:** since 2020.08.
 - I am very interested in **Frontend development**👩‍💻.

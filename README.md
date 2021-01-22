@@ -16,6 +16,8 @@ I am **Sanghee Lee** who is interested in **Frontend development** from South Ko
 
 💛: <img alt="Redux" src="https://user-images.githubusercontent.com/61302874/105501958-38dc1100-5d08-11eb-9b80-21a9f30dea71.png" width="32" height="32"/> 
 
+🤍: <img alt="GraphQL" src="https://user-images.githubusercontent.com/61302874/105507067-1816ba00-5d0e-11eb-9245-a1573de285d5.png" width="32" height="32"/> <img alt="NestJS" src="https://user-images.githubusercontent.com/61302874/105507120-29f85d00-5d0e-11eb-8ec2-ef3c2a8ef7aa.png" width="32" height="32"/> <img alt="Django" src="https://user-images.githubusercontent.com/61302874/105507388-7774ca00-5d0e-11eb-9515-355c4b0d1846.png" width="32" height="32"/> <img alt="AWS" src="https://user-images.githubusercontent.com/61302874/105507519-a2f7b480-5d0e-11eb-9086-c77e25c130df.png" width="32" height="32"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanghee-dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

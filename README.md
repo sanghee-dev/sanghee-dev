@@ -20,8 +20,6 @@ I am **Sanghee Lee** who is interested in **Frontend development** from South Ko
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanghee-dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🙆‍♀Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeesangheee@gmail.com)](mailto:leeesangheee@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)](https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)

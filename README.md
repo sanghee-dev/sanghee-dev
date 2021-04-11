@@ -17,8 +17,6 @@ I am **Sanghee Lee** who is interested in **Frontend development** from South Ko
 
 🤍: <img alt="GraphQL" src="https://user-images.githubusercontent.com/61302874/105507067-1816ba00-5d0e-11eb-9245-a1573de285d5.png" width="32" height="32"/> <img alt="NestJS" src="https://user-images.githubusercontent.com/61302874/105507120-29f85d00-5d0e-11eb-8ec2-ef3c2a8ef7aa.png" width="32" height="32"/> <img alt="Django" src="https://user-images.githubusercontent.com/61302874/105507388-7774ca00-5d0e-11eb-9515-355c4b0d1846.png" width="32" height="32"/> <img alt="AWS" src="https://user-images.githubusercontent.com/61302874/105507519-a2f7b480-5d0e-11eb-9086-c77e25c130df.png" width="32" height="32"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🙆‍♀Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeesangheee@gmail.com)](mailto:leeesangheee@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)](https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)

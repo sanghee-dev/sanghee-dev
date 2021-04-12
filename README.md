@@ -8,6 +8,7 @@ I am **Sanghee Lee** who is interested in **Frontend development** from South Ko
 - I have project experience using **React, React-Native, Typescript, Javascript, **···.
 - I love **React-Hooks, functional programming, Es6**🥰.
 
+
 ### 🙆‍♀Languages
 
 ❤️:  <img alt="TypeScript" src="https://user-images.githubusercontent.com/61302874/104692864-0486b480-574c-11eb-9514-b527238e4715.png" width="32" height="32"/>  <img alt="React" src="https://user-images.githubusercontent.com/13250888/62798586-90d58680-bb19-11e9-9a82-9762725abede.png" width="32" height="32"/> <img alt="JavaScript" src="https://user-images.githubusercontent.com/13250888/53627364-a16d0100-3c4b-11e9-84e2-a8c2f7311695.png" width="32" height="32"/> <img alt="Html" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> <img alt="Css" src="https://user-images.githubusercontent.com/61302874/99525171-cf284980-29dc-11eb-91ea-412ee2f0c910.png" width="32" height="32"/> 

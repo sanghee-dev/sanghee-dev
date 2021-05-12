@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🙆‍♀Hi there
 
 I am **Sanghee Lee** who is interested in **Frontend development** from South Korea.
 

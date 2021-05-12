@@ -1,4 +1,4 @@
-## 🙆‍♀Hi there
+# 🙆‍♀Hi there
 
 I am **Sanghee Lee** who is interested in **Frontend development** from South Korea.
 
@@ -7,7 +7,8 @@ I am **Sanghee Lee** who is interested in **Frontend development** from South Ko
 - I love **React-Hooks, functional programming, Es6**🥰.
 
 
-## 🙆‍♀Languages
+
+# 🙆‍♀Languages
 
 **Framework:**
 <img alt="React" src="https://user-images.githubusercontent.com/61302874/114516276-32f72b80-9c78-11eb-82b1-d80d11d55d48.png" width="32" height="32"/>
@@ -33,6 +34,7 @@ React, React-Native
 TypeScript, JavaScript(ES6), HTML, CSS / GraphQL, Apollo, AWS, Firebase / Expo, Redux
 
 
-## 🙆‍♀Contacts
+
+# 🙆‍♀Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeesangheee@gmail.com)](mailto:leeesangheee@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)](https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)

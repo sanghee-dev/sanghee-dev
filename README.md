@@ -13,7 +13,7 @@ I am a person who loves **Frontend development**.
 |                 |            |                 |      |          |
 | :-------------: | :--------: | :-------------: | :--: | :------: |
 |  **Framework**  |   React    |  React Native   |      |          |
-| **Programming** | TypeScript | JavaScript(ES6) | html |   css    |
+| **Language** | TypeScript | JavaScript(ES6) | html |   css    |
 |   **Backend**   |  GraphQL   |     Apollo      | AWS  | Firebase |
 |     **etc**     |    Expo    |      Redux      |      |          |
 

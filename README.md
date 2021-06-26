@@ -10,12 +10,12 @@ I am a person who loves **Frontend development**.
 
 # Skills
 
-|                 |            |                 |      |          |
-| :-------------: | :--------: | :-------------: | :--: | :------: |
-|  **Framework**  |   React    |  React Native   |      |          |
-| **Language** | TypeScript | JavaScript(ES6) | html |   css    |
-|   **Backend**   |  GraphQL   |     Apollo      | AWS  | Firebase |
-|     **etc**     |    Expo    |      Redux      |      |          |
+|                 |            |                 |      |          ||
+| :-------------: | :--------: | :-------------: | :--: | :------: |:------: |
+|  **Framework**  |   React    |  React Native   |      |          ||
+| **Language** | TypeScript | Next.js|JavaScript(ES6) | html |   css    |
+|   **Backend**   |  GraphQL   |     Apollo      | AWS  | Firebase ||
+|     **etc**     |    Expo    |      Redux      |      |          ||
 
 <br/>
 

@@ -1,6 +1,6 @@
 # Hello, world!🌍
 
-I am a person who loves **iOS development!!**.
+I am a person who loves **iOS development!!**
 
 <br/>
 

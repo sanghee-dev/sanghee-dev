@@ -4,7 +4,11 @@
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)](https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)
 
 # Hello, world!🌍
-저는 iOS 개발을 좋아합니다. 😆
+안녕하세요! 저는 프론트엔드 개발에 관심이 많고, 그중에서도 iOS 개발을 가장 좋아합니다.
+
+### 📎 기술 블로그 → [Velog](https://velog.io/@leeesangheee)
+
+### 📎 포트폴리오 → [Notion](https://chocolate-goal-40a.notion.site/73ce0ad5997d436f92cb1729ae1ad0ef)
 
 <br />
 

@@ -3,8 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:leeesangheee@gmail.com)](mailto:leeesangheee@gmail.com)
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)](https://www.linkedin.com/in/sanghee-lee-52ba5a1a8)
 
-# Hello, world!🌍
-안녕하세요! 저는 프론트엔드 개발에 관심이 많고, 그중에서도 iOS 개발을 가장 좋아합니다. 😆
+# 🌍 Hello, iOS!
 
 <br />
 

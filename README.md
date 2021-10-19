@@ -23,6 +23,12 @@
 
 <br />
 
+## 학습
+
+### ✍️ RxSwift → [Basic RxSwift](https://github.com/sanghee-dev/Basic-RxSwift)
+
+<br />
+
 ## 연합 동아리
 
 ### 😆 iOS 스터디 → [YappUltraHardPractice](https://github.com/della-padula/YappUltraHardPractice)

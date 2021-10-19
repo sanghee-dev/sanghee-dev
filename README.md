@@ -25,7 +25,7 @@
 
 ## 학습
 
-### ✍️ RxSwift → [Basic RxSwift](https://github.com/sanghee-dev/Basic-RxSwift)
+### ✍️ RxSwift → [Filter Cam](https://github.com/sanghee-dev/Filter-Cam)
 
 <br />
 

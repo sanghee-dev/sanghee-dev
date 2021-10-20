@@ -23,9 +23,9 @@
 
 <br />
 
-## 학습
+## 프로젝트 + RxSwift
 
-### ✍️ RxSwift → [Filter Cam](https://github.com/sanghee-dev/Filter-Cam)
+### 🌆 사진 필터 서비스 → [Filter Cam](https://github.com/sanghee-dev/Filter-Cam)
 
 <br />
 
@@ -41,6 +41,6 @@
 
 ## 기타
 
-### 🙋‍♀ 기술블로그 → [Velog](https://velog.io/@leeesangheee)
+### ✍️ 기술블로그 → [Velog](https://velog.io/@leeesangheee)
 
-### 🙋‍♀️ 포트폴리오 → [Notion](https://chocolate-goal-40a.notion.site/73ce0ad5997d436f92cb1729ae1ad0ef)
+### ✍️ 포트폴리오 → [Notion](https://chocolate-goal-40a.notion.site/73ce0ad5997d436f92cb1729ae1ad0ef)

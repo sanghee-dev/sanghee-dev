@@ -35,8 +35,12 @@
 
 ### 😆 연합 동아리 프로젝트 → [YAPP iOS Team 2 Client](https://github.com/YAPP-19th/iOS-Team-2-Client)
 
+### 🥶 코테 스터디 → [Coding Test](https://github.com/sanghee-dev/Coding-Test)
+
 <br />
 
-## 스터디
+## 기타
 
-### 🥶 코테 스터디 → [Coding Test](https://github.com/sanghee-dev/Coding-Test)
+### 🙋‍♀ 기술블로그 → [Velog](https://velog.io/@leeesangheee)
+
+### 🙋‍♀️ 포트폴리오 → [Notion](https://chocolate-goal-40a.notion.site/73ce0ad5997d436f92cb1729ae1ad0ef)

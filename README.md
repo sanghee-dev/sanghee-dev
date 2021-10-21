@@ -7,6 +7,12 @@
 
 <br />
 
+## RxSwift 프로젝트
+
+### 🌆 사진 필터 서비스 → [Filter Cam](https://github.com/sanghee-dev/Filter-Cam)
+
+<br />
+
 ## 프로젝트
 
 ### 💬 채팅 서비스 → [Hello Chat](https://github.com/sanghee-dev/Hello-Chat)
@@ -20,12 +26,6 @@
 ### 🥵 UV 서비스 → [Will I Burn](https://github.com/sanghee-dev/Will-I-Burn)
 
 ### 📌 공지 서비스 → [Notice App](https://github.com/sanghee-dev/Notice-App)
-
-<br />
-
-## 프로젝트 + RxSwift
-
-### 🌆 사진 필터 서비스 → [Filter Cam](https://github.com/sanghee-dev/Filter-Cam)
 
 <br />
 

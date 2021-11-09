@@ -19,6 +19,8 @@
 
 ### 🍎 앱스토어 클론 → [App Shop](https://github.com/sanghee-dev/App-Shop)
 
+### 🕹 숫자 게임 → [Number Game](https://github.com/della-padula/YappUltraHardPractice/tree/main/UltraProject1)
+
 ### 🌃 사진 탐색기 서비스 → [Photo Box](https://github.com/sanghee-dev/Photo-Box)
 
 ### 🗺 지도 서비스 → [Center Map](https://github.com/sanghee-dev/Center-Map)

@@ -33,9 +33,9 @@
 
 ## 연합 동아리
 
-### 😆 iOS 스터디 → [YappUltraHardPractice](https://github.com/della-padula/YappUltraHardPractice)
-
 ### 😆 연합 동아리 프로젝트 → [YAPP iOS Team 2 Client](https://github.com/YAPP-19th/iOS-Team-2-Client)
+
+### 😆 iOS 스터디 → [YappUltraHardPractice](https://github.com/della-padula/YappUltraHardPractice)
 
 ### 🥶 코테 스터디 → [Coding Test](https://github.com/sanghee-dev/Coding-Test)
 

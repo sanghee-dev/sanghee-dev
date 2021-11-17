@@ -17,15 +17,15 @@
 
 ### 💬 채팅 서비스 → [Hello Chat](https://github.com/sanghee-dev/Hello-Chat)
 
-### 🍎 앱스토어 클론 → [App Shop](https://github.com/sanghee-dev/App-Shop)
+### 🥵 UV 서비스 → [Will I Burn](https://github.com/sanghee-dev/Will-I-Burn)
 
 ### 🕹 숫자 게임 → [Number Game](https://github.com/della-padula/YappUltraHardPractice/tree/main/UltraProject1)
+
+### 🍎 앱스토어 클론 → [App Shop](https://github.com/sanghee-dev/App-Shop)
 
 ### 🌃 사진 탐색기 서비스 → [Photo Box](https://github.com/sanghee-dev/Photo-Box)
 
 ### 🗺 지도 서비스 → [Center Map](https://github.com/sanghee-dev/Center-Map)
-
-### 🥵 UV 서비스 → [Will I Burn](https://github.com/sanghee-dev/Will-I-Burn)
 
 ### 📌 공지 서비스 → [Notice App](https://github.com/sanghee-dev/Notice-App)
 

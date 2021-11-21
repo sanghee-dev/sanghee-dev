@@ -33,7 +33,7 @@
 
 ### 😆 iOS 스터디 → [YappUltraHardPractice](https://github.com/della-padula/YappUltraHardPractice)
 
-### 🥶 코테 스터디 → [Coding Test](https://github.com/sanghee-dev/Coding-Test)
+### 🥶 알고리즘 스터디 → [Coding Test](https://github.com/sanghee-dev/Coding-Test)
 
 <br />
 

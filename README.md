@@ -5,15 +5,26 @@
 
 # Hello, iOS! 🌍 
 
+
 <br />
+
+
+## 팀 프로젝트
+
+### 🌱 팀빌딩 서비스 → [Budi](https://github.com/YAPP-19th/iOS-Team-2-Client)
+
+### 🕹 숫자 게임 → [Number Game](https://github.com/della-padula/YappUltraHardPractice/tree/main/UltraProject1)
+
 
 ## 프로젝트
 
-### 💬 채팅 서비스 → [Hello Chat](https://github.com/sanghee-dev/Hello-Chat)
-
 ### 🥵 UV 서비스 → [Will I Burn](https://github.com/sanghee-dev/Will-I-Burn)
 
-### 🕹 숫자 게임 → [Number Game](https://github.com/della-padula/YappUltraHardPractice/tree/main/UltraProject1)
+### 💬 채팅 서비스 → [Hello Chat](https://github.com/sanghee-dev/Hello-Chat)
+
+
+## 
+
 
 ### 🌆 사진 필터 서비스(rx) → [Filter Cam](https://github.com/sanghee-dev/Filter-Cam)
 
@@ -25,7 +36,9 @@
 
 ### 📌 공지 서비스 → [Notice App](https://github.com/sanghee-dev/Notice-App)
 
+
 <br />
+
 
 ## 연합 동아리
 
@@ -35,10 +48,13 @@
 
 ### 🥶 알고리즘 스터디 → [Coding Test](https://github.com/sanghee-dev/Coding-Test)
 
+
 <br />
+
 
 ## 기타
 
 ### ✍️ 기술블로그 → [Velog](https://velog.io/@leeesangheee)
 
 ### ✍️ 포트폴리오 → [Notion](https://chocolate-goal-40a.notion.site/73ce0ad5997d436f92cb1729ae1ad0ef)
+

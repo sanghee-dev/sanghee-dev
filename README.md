@@ -11,7 +11,7 @@
 
 ## 팀 프로젝트
 
-### 🌱 팀빌딩 서비스 → [Budi](https://github.com/YAPP-19th/iOS-Team-2-Client)
+### 🌱 팀빌딩 서비스 → [Budi](https://github.com/YAPP-19th/iOS-Team-2-Client), [forked from Budi](https://github.com/sanghee-dev/iOS-Team-2-Client)
 
 ### 🕹 숫자 게임 → [Number Game](https://github.com/della-padula/YappUltraHardPractice/tree/main/UltraProject1)
 

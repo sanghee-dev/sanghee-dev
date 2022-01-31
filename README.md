@@ -11,9 +11,14 @@
 
 ## 팀 프로젝트
 
+### 🙋‍♀️ 출석 서비스 -> [YAPP Attendance](https://github.com/YAPP-admin/attendance-ios)
+
 ### 🌱 팀빌딩 서비스 → [Budi](https://github.com/YAPP-19th/iOS-Team-2-Client), [forked from Budi](https://github.com/sanghee-dev/iOS-Team-2-Client)
 
 ### 🕹 숫자 게임 → [Number Game](https://github.com/della-padula/YappUltraHardPractice/tree/main/UltraProject1)
+
+
+<br />
 
 
 ## 프로젝트
@@ -21,12 +26,6 @@
 ### 🥵 UV 서비스 → [Will I Burn](https://github.com/sanghee-dev/Will-I-Burn)
 
 ### 💬 채팅 서비스 → [Hello Chat](https://github.com/sanghee-dev/Hello-Chat)
-
-
-## 
-
-
-### 🌆 사진 필터 서비스(rx) → [Filter Cam](https://github.com/sanghee-dev/Filter-Cam)
 
 ### 🍎 앱스토어 클론 → [App Shop](https://github.com/sanghee-dev/App-Shop)
 
@@ -40,11 +39,9 @@
 <br />
 
 
-## 연합 동아리
+## 스터디
 
-### 😆 연합 동아리 프로젝트 → [YAPP iOS Team 2 Client](https://github.com/YAPP-19th/iOS-Team-2-Client)
-
-### 😆 iOS 스터디 → [YappUltraHardPractice](https://github.com/della-padula/YappUltraHardPractice)
+### 😆 iOS 스터디 → [YAPP UltraHardPractice](https://github.com/della-padula/YappUltraHardPractice)
 
 ### 🥶 알고리즘 스터디 → [Coding Test](https://github.com/sanghee-dev/Coding-Test)
 

@@ -3,5 +3,6 @@
 
 # Hello, iOS🍀
 
-### 🙋‍♀ 출석앱 -> [YAPP Attendance](https://github.com/YAPP-admin/attendance-ios)
-### ✍️ 알고리즘 문제 -> [Coding Test](https://github.com/sanghee-dev/Coding-Test)
+### 출석앱 🙋‍♀️ [YAPP Attendance](https://github.com/YAPP-admin/attendance-ios)
+### 알고리즘 문제 ✍️ [Coding Test](https://github.com/sanghee-dev/Coding-Test)
+
